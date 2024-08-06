@@ -1,0 +1,30 @@
+#container {
+    background-color: #ccd8ff;
+    padding: 3%;
+    margin-top: 50px;
+}
+
+
+
+.container-fluid {
+    background-color: #e3e9fc;
+    padding: 20px 60px 60px 15px;
+}
+
+.btn {
+    margin-top: 5%;
+}
+
+.form-control-file {
+    margin-top: 3%;
+}
+
+
+.navbar-brand {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.navbar-toggler {
+    margin-right: 30px;
+}
